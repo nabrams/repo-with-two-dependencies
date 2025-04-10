@@ -8,6 +8,7 @@
     "prettier": "3.3.3",
     "typescript": "5.4.5",
     "undici": "*",
+    "design-system-repo": "7.8.8",
     
   }
 }
